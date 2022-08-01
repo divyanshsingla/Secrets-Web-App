@@ -1,3 +1,6 @@
+*{
+  background-color: antiquewhite;
+}
 
 body {
   background-color: #E8ECEF;
@@ -7,6 +10,7 @@ body {
     padding-top: 200px;
     text-align: center;
 }
+
 
 .secret-text {
   text-align: center;
